@@ -30,8 +30,8 @@ E' utile, ma non necessaria, una conoscenza base di programmazione. Porta il tuo
 
 ### Federico Minzoni
 
-- (fminzoni@enter.eu){:target="_blank"}  
-- (https://github.com/f-minzoni/){:target="_blank"}
+- fminzoni@enter.eu 
+- https://github.com/f-minzoni
 
 Sono un programmatore e smanettone della prima ora. Appassionato da sempre di Git, MongoDB, Rich Internet Application, IOT, Cloud Computing, da diversi mesi ho aggiunto alla lista, Docker e le architetture a Microservizi. Due temi che, insieme, stanno rivoluzionando l'intero processo di sviluppo e rilascio delle applicazioni sul Cloud. Ambito in cui lavoro da 3 anni, in Enter, occupandomi della piattaforma [Enter Cloud Suite](http://www.entercloudsuite.com){:target="_blank"}.
 
