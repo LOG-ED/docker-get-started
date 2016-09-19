@@ -3,7 +3,10 @@ layout: default
 ---
 
 ## Descrizione
-Attraverso esercitazioni pratiche e un pizzico di teoria (q.b) saranno introdotti i concetti e gli strumenti open source di Docker necessari per predisporre, da zero, un ambiente di sviluppo locale, strutturare un’applicazione web e distribuirla come immagine Docker.
+Attraverso esercitazioni pratiche e un pizzico di teoria (q.b) saranno introdotti i concetti e gli strumenti open source di Docker necessari per:  
+* predisporre (da zero) un ambiente di sviluppo locale
+* avviare un’applicazione come container Docker
+* distribuirla come immagine Docker
 
 ### Livello: Base
 
@@ -11,7 +14,7 @@ Attraverso esercitazioni pratiche e un pizzico di teoria (q.b) saranno introdott
  
 ### Svolgimento delle sessioni: 
 Le sessioni sono attive **dal 3 ottobre, il lunedì e il mercoledì dalle 18:30 alle 20:30.**
-Ogni sessione della durata di 2 ore, prevede in successione questi momenti formativi:  
+Ogni sessione della durata di 2 ore, prevede questi momenti formativi:  
 * una presentazione in cui vengono introdotti e descritti i nuovi concetti
 * una dimostrazione pratica degli strumenti e dei comandi descritti
 * l'assegnazione di esercitazioni pratiche individuali o a piccoli gruppi
@@ -19,7 +22,7 @@ Ogni sessione della durata di 2 ore, prevede in successione questi momenti forma
  
 ### Requisiti:
  
-E' utile una conoscenza base di programmazione web. Porta il tuo pc, il corso è molto pratico.
+E' utile, ma non necessaria, una conoscenza base di programmazione. Porta il tuo pc, il corso è molto pratico!
 
 ## Docente
 
