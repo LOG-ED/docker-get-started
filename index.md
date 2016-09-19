@@ -3,10 +3,11 @@ layout: default
 ---
 
 ## Descrizione
-Attraverso esercitazioni pratiche e un pizzico di teoria (q.b) saranno introdotti i concetti e gli strumenti open source di Docker necessari per:  
-* predisporre (da zero) un ambiente di sviluppo locale  
-* avviare un’applicazione come container Docker  
-* distribuirla come immagine Docker
+Attraverso esercitazioni pratiche e un pizzico di teoria (q.b) saranno introdotti i concetti e gli strumenti open source di Docker necessari per:
+
+- predisporre (da zero) un ambiente di sviluppo locale  
+- avviare un’applicazione come container Docker  
+- distribuirla come immagine Docker
 
 ### Livello: Base
 
@@ -14,11 +15,12 @@ Attraverso esercitazioni pratiche e un pizzico di teoria (q.b) saranno introdott
  
 ### Svolgimento delle sessioni: 
 Le sessioni sono attive **dal 3 ottobre, il lunedì e il mercoledì dalle 18:30 alle 20:30.**
-Ogni sessione della durata di 2 ore, prevede questi momenti formativi:  
-* una presentazione in cui vengono introdotti e descritti i nuovi concetti
-* una dimostrazione pratica degli strumenti e dei comandi descritti
-* l'assegnazione di esercitazioni pratiche individuali o a piccoli gruppi
-* Un momento di revisione delle esercitazioni assegnate   
+Ogni sessione della durata di 2 ore, prevede questi momenti formativi:
+
+- una presentazione in cui vengono introdotti e descritti i nuovi concetti  
+- una dimostrazione pratica degli strumenti e dei comandi descritti  
+- l'assegnazione di esercitazioni pratiche individuali o a piccoli gruppi  
+- Un momento di revisione delle esercitazioni assegnate
  
 ### Requisiti:
  
@@ -36,7 +38,8 @@ Sono un programmatore e smanettone della prima ora. Appassionato da sempre di Gi
 In questa prima sessione, dopo una breve introduzione a Docker, predisporremo l'ambiente di sviluppo e installeremo il Docker Engine. Presenterò i principali comandi di Docker e li useremo attivamente per avviare come container un'applicazione di esempio.  
 
 Materiali:  
-* [Tutorial che guida al primo utilizzo di Docker](https://log-ed.github.io/docker-get-started/sessione1).
+
+- [Tutorial che guida al primo utilizzo di Docker](https://log-ed.github.io/docker-get-started/sessione1).
 
 ### Seconda sessione
 ...
