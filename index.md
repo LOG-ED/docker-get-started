@@ -24,7 +24,8 @@ Ogni sessione della durata di 2 ore, prevede questi momenti formativi:
  
 ### Requisiti:
  
-E' utile, ma non necessaria, una conoscenza base di programmazione. Porta il tuo pc, il corso è molto pratico!
+E' utile, ma non necessaria, una conoscenza base di programmazione.  
+Porta il tuo pc, il corso è molto pratico!
 
 ## Docente
 
