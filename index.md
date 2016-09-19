@@ -21,5 +21,5 @@ Il terzo termine, Run, è in realtà il primo che ha direttamente a che vedere c
 
 E’ Docker, in particolare il componente Docker Engine, che si occupa di creare tutto ciò per eseguire la nostra applicazione. Lo fa, utilizzando le risorse dell’host, locale o in cloud, su cui è in esecuzione.
 
-Il Docker Engine può essere configurato su differenti piattaforme, seguendo la [guida ufficiale](https://docs.docker.com/engine/getstarted/step_one/) di Docker.
+Il Docker Engine può essere configurato su differenti piattaforme, seguendo la [guida ufficiale](https://docs.docker.com/engine/getstarted/step_one/){:target="_blank"} di Docker.
 
