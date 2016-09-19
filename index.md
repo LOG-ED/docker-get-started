@@ -2,24 +2,40 @@
 layout: default
 ---
 
-## Perchè Docker?
+## Descrizione:
+Attraverso esercitazioni pratiche e un pizzico di teoria (q.b) saranno introdotti i concetti e gli strumenti open source di Docker necessari per predisporre, da zero, un ambiente di sviluppo locale, strutturare un’applicazione web e distribuirla come immagine Docker.
 
-Docker ha rivoluzionato il modo di sviluppare e distribuire software, introducendo il concetto di **container applicativo.**  
-Questo termine, si riferisce ad uno specifico modello di conteinerizzazione che possiamo sintetizzare usando 3 parole chiave: **Build, Ship e Run.**
+### Livello: Base
 
-### Build
+### Durata: 3 sessioni
+ 
+### Svolgimento delle sessioni: 
+Le sessioni sono attive **dal 3 ottobre, il lunedì e il mercoledì dalle 18:30 alle 20:30.**
+Ogni sessione della durata di 2 ore, prevede in successione questi momenti formativi:  
+* una presentazione in cui vengono introdotti e descritti i nuovi concetti
+* una dimostrazione pratica degli strumenti e dei comandi descritti
+* l'assegnazione di esercitazioni pratiche individuali o a piccoli gruppi
+* Un momento di revisione delle esercitazioni assegnate   
+ 
+### Requisiti:
+ 
+E' utile una conoscenza base di programmazione web. Porta il tuo pc, il corso è molto pratico.
 
-Il termine Build, indica la tecnica con cui si definiscono tutte le componenti necessarie per l’esecuzione di un processo applicativo. Questo raggruppamento di file, a partire dal sistema operativo e dalle librerie di base, descrive quella che in Docker si chiama **immagine.**
+## Docente: Federico Minzoni
+Sono un programmatore e smanettone della prima ora. Appassionato da sempre di Git, MongoDB, Rich Internet Application, IOT, Cloud Computing, da diversi mesi ho aggiunto alla lista, Docker e le architetture a Microservizi. Due temi che, insieme, stanno rivoluzionando l'intero processo di sviluppo e rilascio delle applicazioni sul Cloud. Ambito in cui lavoro da 3 anni, in Enter, occupandomi della piattaforma [Enter Cloud Suite](http://www.entercloudsuite.com){:target="_blank"}.
 
-### Ship
+## Agenda:
 
-Il processo di Build, basato sulla scrittura di un file di testo, il **Dockerfile**, rende possibile trattare le immagini Docker nello stesso modo in cui gestiamo già il codice applicativo. Ad esempio, possiamo caricare il codice in un repository Git, per il versionamento e la condivisione. Questo è proprio ciò che significa il termine Ship, trovare un formato standard per **semplificare la distribuzione** delle nostre applicazioni.
+### Prima sessione
+ 
+In questa prima sessione, dopo una breve introduzione a Docker, predisporremo l'ambiente di sviluppo e installeremo il Docker Engine. Presenterò i principali comandi di Docker e li useremo attivamente per avviare come container un'applicazione di esempio.  
 
-### Run
+Materiali:  
+* [Tutorial che guida al primo utilizzo di Docker](https://log-ed.github.io/docker-get-started/sessione1).
 
-Il terzo termine, Run, è in realtà il primo che ha direttamente a che vedere con il concetto di container. E’ infatti in questa fase che, sulla base di un’immagine Docker, viene creato un nuovo “root file system”, il **container** appunto. Oltre allo spazio disco, così realizzato e a questo punto modificabile, ogni container ha ovviamente anche i suoi processi, la sua memoria, il suo stack di rete.
+### Seconda sessione
+...
 
-E’ Docker, in particolare il componente Docker Engine, che si occupa di creare tutto ciò per eseguire la nostra applicazione. Lo fa, utilizzando le risorse dell’host, locale o in cloud, su cui è in esecuzione.
-
-Il Docker Engine può essere configurato su differenti piattaforme, seguendo la [guida ufficiale](https://docs.docker.com/engine/getstarted/step_one/){:target="_blank"} di Docker.
+### Terza sessione
+...
 
