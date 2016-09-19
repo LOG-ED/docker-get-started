@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Il Corso
+## Descrizione
 Attraverso esercitazioni pratiche e un pizzico di teoria (q.b) saranno introdotti i concetti e gli strumenti open source di Docker necessari per predisporre, da zero, un ambiente di sviluppo locale, strutturare un’applicazione web e distribuirla come immagine Docker.
 
 ### Livello: Base
@@ -21,12 +21,12 @@ Ogni sessione della durata di 2 ore, prevede in successione questi momenti forma
  
 E' utile una conoscenza base di programmazione web. Porta il tuo pc, il corso è molto pratico.
 
-## Il Docente
+## Docente
 
 ### Federico Minzoni
 Sono un programmatore e smanettone della prima ora. Appassionato da sempre di Git, MongoDB, Rich Internet Application, IOT, Cloud Computing, da diversi mesi ho aggiunto alla lista, Docker e le architetture a Microservizi. Due temi che, insieme, stanno rivoluzionando l'intero processo di sviluppo e rilascio delle applicazioni sul Cloud. Ambito in cui lavoro da 3 anni, in Enter, occupandomi della piattaforma [Enter Cloud Suite](http://www.entercloudsuite.com){:target="_blank"}.
 
-## L'Agenda
+## Agenda
 
 ### Prima sessione
  
