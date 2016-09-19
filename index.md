@@ -4,8 +4,8 @@ layout: default
 
 ## Descrizione
 Attraverso esercitazioni pratiche e un pizzico di teoria (q.b) saranno introdotti i concetti e gli strumenti open source di Docker necessari per:  
-* predisporre (da zero) un ambiente di sviluppo locale
-* avviare un’applicazione come container Docker
+* predisporre (da zero) un ambiente di sviluppo locale  
+* avviare un’applicazione come container Docker  
 * distribuirla come immagine Docker
 
 ### Livello: Base
