@@ -22,3 +22,18 @@ Il terzo termine, Run, è in realtà il primo che ha direttamente a che vedere c
 E’ Docker, in particolare il componente Docker Engine, che si occupa di creare tutto ciò per eseguire la nostra applicazione. Lo fa, utilizzando le risorse dell’host, locale o in cloud, su cui è in esecuzione.
 
 Il Docker Engine può essere configurato su differenti piattaforme, seguendo la [guida ufficiale](https://docs.docker.com/engine/getstarted/step_one/){:target="_blank"} di Docker.
+
+## Sviluppare con Docker
+
+Terminata l'installazione del Docker Engine e degli strumenti client, è ora di iniziare ad usare Docker!
+
+Come cambia lo sviluppo della nostra applicazione con Docker?  
+Docker sicuramente introduce nuovi strumenti legati al pattern Build-Ship-Run però, il cuore della nostra applicazione resta assolutamente il nostro codice applicativo, scritto con uno dei numerosi linguaggi di programmazione.  
+In questo senso, non dobbiamo considerare Docker come una tecnologia invasiva che cambia la nostra applicazione o il modo in cui scriviamo il suo codice.
+
+### Applicazione di esempio
+
+Come tutti i corsi introduttivi, anche questo propone un'applicazione "Hello World" di esempio.  
+La scelta del linguaggio di programmazione è ricaduta su [Golang](https://it.wikipedia.org/wiki/Go_(linguaggio_di_programmazione)){:target="_blank"}, per la sua chiarezza e leggibilità. Naturalmente, i concetti che verranno presentati si potranno applicare anche agli altri linguaggi di programmazione più diffusi.
+
+Il codice dell'applicazione di esempio corrisponde al file [main.go](https://github.com/LOG-ED/docker-get-started/blob/master/main.go){:target="_blank"} presente nella root del nostro repository.
