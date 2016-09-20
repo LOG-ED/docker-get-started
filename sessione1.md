@@ -40,9 +40,29 @@ Il codice dell'applicazione di esempio corrisponde al file [main.go](https://git
 
 ### Docker e Golang
 
-Se sei un programmatore Go è probabile che tu abbia già installato e configurato il compilatore di Go in locale, 
+Se fossimo dei programmatori Go probabilmente avremmo già installato e configurato il compilatore di Go in locale, 
 ma per chi non conosce questo linguaggio di programmazione o non lo ha mai utilizzato, vedremo come compilare la nostra applicazione Go senza installare appunto alcuno strumento specifico di questo linguaggio.
 Per fare ciò, utilizzeremo una immagine di Docker che incorpora al meglio tutti gli strumenti necessari.
-Esiste infatti un'immagine Docker [ufficiale per Golang](https://hub.docker.com/_/golang/){:target="_blank"} depositata sul Docker Hub, che è uno dei principali archivi di immagini pubbliche.
+Si tratta dell'immagine Docker [ufficiale per Golang](https://hub.docker.com/_/golang/){:target="_blank"} depositata sul Docker Hub, che è uno dei principali archivi di immagini pubbliche.
+
+Per utilizzare l'immagine di Golang dobbiamo prima scaricarla in locale, dove è in esecuzione il Docker Engine. Ad esempio con questo comando che deve essere eseguito da terminale:
+
+```$ docker pull golang```
+
+Eseguendo il comando si avvierà il processo di download dell'immagine con la classica indicazione sull'avanzamento.
+
+### Il primo container
+
+Terminato il processo di scaricamento dell'immagine, possiamo utilizzarla direttamente per la compilazione della nostra applicazione di esempio. In che modo? Ricordate il termine Run? E' la fase in cui a partire da un'immagine di base, ad esempio golang, viene creato un nuovo container con un proprio file system in cui troveremo pronti all'uso, tutti gli strumenti per la compilazione e l'esecuzione della nostra applicazione di esempio.  
+Per il run del nostro primo container apriamo il terminale e spostiamoci nella directory dove è presente il file main.go. A questo punto eseguiamo questo comando da terminale:
+
+```$ docker run --rm -v "$PWD":/go/src/helloworld golang go run /go/src/helloworld/main.go```
+
+Il risultato che ci attendiamo è la stampa a terminale della frase "Hello World".
+
+
+
+
+
 
 
