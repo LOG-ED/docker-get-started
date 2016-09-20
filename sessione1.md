@@ -63,6 +63,9 @@ Il risultato che ci attendiamo è la stampa a terminale della frase "Hello World
 ### Cosa è successo?
 
 Se non avete avuto errori, come ci attendevamo, è stato creato temporaneamente un nuovo container che è stato utilizzato per compilare ed eseguire la nostra applicazione di esempio. Se tutti gli strumenti di Go erano già inclusi nella immagine Docker di base, dove è stato preso il sorgente dell'applicazione?  
+
 Il comando run che abbiamo eseguito utilizza il parametro ```$ docker run ... -v "$PWD":/go/src/helloworld``` per "mappare" la directory corrente dell'host con la directory "/go/src/helloworld" del container.  
+
 A questo punto è possibile utilizzare il comando ```$ docker run ... go run /go/src/helloworld/main.go``` per compilare l'applicazione in una directory temporanea del container e quindi eseguirla.  
+
 Il parametro ```$ docker run --rm ... ``` ha cancellato il container una volta terminato il comando indicato.
