@@ -11,7 +11,7 @@ Attraverso esercitazioni pratiche e un pizzico di teoria (q.b) saranno introdott
 
 ### Livello: Base
 
-### Durata: 3 sessioni
+### Durata: 2 sessioni
  
 ### Svolgimento delle sessioni: 
 Le sessioni sono attive **dal 3 ottobre, 3 giorni la settimana:  
@@ -45,7 +45,7 @@ Sono un programmatore e smanettone della prima ora. Appassionato da sempre di Gi
 
 ### Prima sessione
  
-In questa prima sessione, dopo una breve introduzione a Docker, predisporremo l'ambiente di sviluppo e installeremo il Docker Engine. Presenterò i principali comandi di Docker e li useremo attivamente per avviare come container un'applicazione di esempio.  
+In questa prima sessione, dopo una breve introduzione a Docker, predisporremo l'ambiente di sviluppo e installeremo il Docker Engine. Presenterò i principali comandi di Docker e li useremo attivamente con un'applicazione di esempio. Struttureremo un processo per il test dell'applicazione e ripercorreremo tutti i concetti e gli strumenti visti finora, step-by-step, per avviare l'applicazione con Docker Compose e valutare il suo funzionamento.
 
 Materiali:  
 
@@ -53,14 +53,12 @@ Materiali:
 
 ### Seconda sessione
 
-Dopo un breve recap, utilizzeremo Docker Compose per semplificare la gestione della nostra applicazione di esempio.  
-Struttureremo un processo per il test dell'applicazione e ripercorreremo tutti i concetti e gli strumenti visti finora, step-by-step, per avviare l'applicazione e valutare il suo funzionamento.
-
-### Terza sessione
-
 Questa lezione sarà l'occasione per capire cosa rende davvero interessante Docker. Vedremo quindi le funzionalità principali di Docker per:  
 -  Creare proprie immagini
 -  Creare container a partire da proprie immagini
 -  Amministrare i container
+-  Distribuire le proprie immagini
+
+
 
 
