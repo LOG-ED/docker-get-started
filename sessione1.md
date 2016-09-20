@@ -37,3 +37,12 @@ Come tutti i corsi introduttivi, anche questo propone un'applicazione "Hello Wor
 La scelta del linguaggio di programmazione è ricaduta su [Golang](https://it.wikipedia.org/wiki/Go_(linguaggio_di_programmazione)){:target="_blank"}, per la sua chiarezza e leggibilità. Naturalmente, i concetti che verranno presentati si potranno applicare anche agli altri linguaggi di programmazione più diffusi.
 
 Il codice dell'applicazione di esempio corrisponde al file [main.go](https://github.com/LOG-ED/docker-get-started/blob/master/main.go){:target="_blank"} presente nella root del nostro repository.
+
+### Docker e Golang
+
+Se sei un programmatore Go è probabile che tu abbia già installato e configurato il compilatore di Go in locale, 
+ma per chi non conosce questo linguaggio di programmazione o non lo ha mai utilizzato, vedremo come compilare la nostra applicazione Go senza installare appunto alcuno strumento specifico di questo linguaggio.
+Per fare ciò, utilizzeremo una immagine di Docker che incorpora al meglio tutti gli strumenti necessari.
+Esiste infatti un'immagine Docker [ufficiale per Golang](https://hub.docker.com/_/golang/){:target="_blank"} depositata sul Docker Hub, che è uno dei principali archivi di immagini pubbliche.
+
+
