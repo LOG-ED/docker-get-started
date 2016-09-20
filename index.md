@@ -14,8 +14,13 @@ Attraverso esercitazioni pratiche e un pizzico di teoria (q.b) saranno introdott
 ### Durata: 3 sessioni
  
 ### Svolgimento delle sessioni: 
-Le sessioni sono attive **dal 3 ottobre, il lunedì e il mercoledì dalle 18:30 alle 20:30.**
-Ogni sessione della durata di 2 ore, prevede questi momenti formativi:
+Le sessioni sono attive **dal 3 ottobre, 3 giorni la settimana:  
+
+- **il lunedì e il mercoledì dalle 18:30 alle 20:30.**  
+- **il venerdì dalle 14.30 alle 18.30**
+
+Per la natura del corso, puoi decidere il giorno o i giorni in cui frequentare, senza vincoli.
+Ogni sessione, della durata di 2 ore, prevede questi momenti formativi:
 
 - una presentazione in cui vengono introdotti e descritti i nuovi concetti  
 - una dimostrazione pratica degli strumenti e dei comandi descritti  
@@ -47,8 +52,15 @@ Materiali:
 - [Tutorial che guida al primo utilizzo di Docker](https://log-ed.github.io/docker-get-started/sessione1).
 
 ### Seconda sessione
-...
+
+Dopo un breve recap, utilizzeremo Docker Compose per semplificare la gestione della nostra applicazione di esempio.  
+Struttureremo un processo per il test dell'applicazione e ripercorreremo tutti i concetti e gli strumenti visti finora, step-by-step, per avviare l'applicazione e valutare il suo funzionamento.
 
 ### Terza sessione
-...
+
+Questa lezione sarà l'occasione per capire cosa rende davvero interessante Docker. Vedremo quindi le funzionalità principali di Docker per:  
+-  Creare proprie immagini
+-  Creare container a partire da proprie immagini
+-  Amministrare i container
+
 
