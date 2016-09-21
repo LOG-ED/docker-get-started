@@ -61,7 +61,8 @@ dockergetstarted_helloworld_1 exited with code 0
 
 Docker compose, sulla base del file di configurazione indicato con il parametro -f, ha tentato di creare un nuovo container
 per il servizio helloworld con questa naming convention: **progetto_servizio_counter**. Ad esempio, nel nostro caso, se il nome del container corrisponde a **dockergetstarted_helloworld_1** è perchè:  
-- la directory corrente è docker-get-started 
+- la directory corrente è docker-get-started  
 - il servizio si chiama helloworld  
-- stiamo creando il primo container per il servizio
-Creato il container, è stato eseguito il comando che prevedeva la compilazione ed esecuzione della nostra applicazione di esempio. Finita l'esecuzione del comando, il container è stato terminato senza erorri (exited with code 0).
+- stiamo creando il primo container per il servizio  
+Creato il container, è stato eseguito il comando che prevedeva la compilazione ed esecuzione della nostra applicazione di esempio.  
+Finita l'esecuzione del comando, il container è stato terminato senza erorri (exited with code 0).
