@@ -71,5 +71,5 @@ Questa lezione sarà l'occasione per capire **cosa rende davvero interessante Do
 Materiali:  
 
 - [Tutorial su Yeoman generator for Docker](https://log-ed.github.io/docker-get-started/sessione2).
-
+- [Tutorial sulla creazione di immagini Docker](https://log-ed.github.io/docker-get-started/sessione2_1).
 
