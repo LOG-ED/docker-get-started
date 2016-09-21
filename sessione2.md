@@ -27,7 +27,7 @@ Sempre da terminale, spostiamoci nella directory dove è presente il file [main.
 
 Yeoman mostra una serie di domande a cui dobbiamo rispondere per personalizzare la generazione dei file di configurazione di Docker Compose, a partire dal tipo di linguaggio della nostra applicazione:
 
-![alt text](https://github.com/LOG-ED/docker-get-started/blob/gh-pages/main.go/images/yo-docker.png "Yeoman Docker generator")
+![alt text](https://github.com/LOG-ED/docker-get-started/blob/gh-pages/images/yo-docker.png "Yeoman Docker generator")
 
 
 
