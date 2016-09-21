@@ -66,8 +66,8 @@ Se non avete avuto errori, come ci attendevamo, è stato creato temporaneamente 
 
 Il comando run che abbiamo eseguito utilizza i parametri:
 
-| Parametro | Descrizione |
+| **Parametro** | **Descrizione** |
 | ------------- |-------------| 
-| `-v "$PWD":/go/src/helloworld` | per "mappare" la directory corrente dell'host con la directory "/go/src/helloworld" del container | 
-| `go run /go/src/helloworld/main.go` | per compilare l'applicazione in una directory temporanea del container e quindi eseguirla |
-| `--rm` | per cancellare il container una volta terminato il comando indicato |
+| ```-v "$PWD":/go/src/helloworld``` | per "mappare" la directory corrente dell'host con la directory "/go/src/helloworld" del container | 
+| ```go run /go/src/helloworld/main.go``` | per compilare l'applicazione in una directory temporanea del container e quindi eseguirla |
+| ```--rm``` | per cancellare il container una volta terminato il comando indicato |
