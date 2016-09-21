@@ -82,4 +82,4 @@ dockergetstartedfminzoni_helloworld_1 exited with code 0
 ```
 
 
-## Tutto chiaro? Approfondiamo il processo di creazione di un'immagine Docker
+## Tutto chiaro? [Approfondiamo il processo di creazione di un'immagine Docker](/docker-get-started/sessione2_1)
