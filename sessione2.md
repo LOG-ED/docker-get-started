@@ -63,7 +63,7 @@ services:
 | **Istruzione** | **Descrizione** |
 | -------------- | --------------- |
 | image: helloworld | Indica il nome dell'immagine usata per creare il container |
-| build: | Indica che l'immagine non sarà scaricata da un archivio remoto ma deve essere creata adhoc localmente |
+| build: | Indica che l'immagine non sarà scaricata da un archivio remoto ma dovrà essere creata adhoc localmente |
 | ... context: . | Precisa dove si trova il file con le istruzioni per la creazione dell'immagine |
 | ... dockerfile: Dockerfile | Precisa che il file con le istruzioni si chiama Dockerfile |
 
@@ -80,5 +80,6 @@ Attaching to dockergetstartedfminzoni_helloworld_1
 helloworld_1  | Hello World
 dockergetstartedfminzoni_helloworld_1 exited with code 0
 ```
+
 
 ## Tutto chiaro? Approfondiamo il processo di creazione di un'immagine Docker
