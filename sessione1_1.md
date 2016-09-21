@@ -64,3 +64,4 @@ per il servizio helloworld con questa naming convention: **progetto_servizio_cou
 - la directory corrente è docker-get-started 
 - il servizio si chiama helloworld  
 - stiamo creando il primo container per il servizio
+Creato il container, è stato eseguito il comando che prevedeva la compilazione ed esecuzione della nostra applicazione di esempio. Finita l'esecuzione del comando, il container è stato terminato senza erorri (exited with code 0).
