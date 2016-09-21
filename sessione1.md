@@ -72,4 +72,4 @@ Il comando run che abbiamo eseguito utilizza i parametri:
 | ```go run /go/src/helloworld/main.go``` | per compilare l'applicazione in una directory temporanea del container e quindi eseguirla |
 | ```--rm``` | per cancellare il container una volta terminato il comando indicato |
 
-## Tutto chiaro? Consula gli altri [materiali](https://log-ed.github.io/docker-get-started/#agenda) del corso
+## Tutto chiaro? [Consula gli altri materiali del corso](https://log-ed.github.io/docker-get-started/#agenda)
