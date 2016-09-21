@@ -67,7 +67,7 @@ services:
 | ... context: . | Precisa dove si trova il file con le istruzioni per la creazione dell'immagine |
 | ... dockerfile: Dockerfile | Precisa che il file con le istruzioni si chiama Dockerfile |
 
-Se proviamo ad eseguire il Docker Compose con questo file di configurazione, scopriremo che il risultato finale sarà molto simile a quanto avevamo ottenuto durante la [prima sessione del corso](sessione1_1). Eseguendo nel terminale il comando:
+Se proviamo ad eseguire il Docker Compose con questo file di configurazione, scopriremo che il risultato finale sarà molto simile a quanto avevamo ottenuto durante la [prima sessione del corso](/docker-get-started/sessione1_1). Eseguendo nel terminale il comando:
 
 ```$ docker-compose up```
 
@@ -81,4 +81,4 @@ helloworld_1  | Hello World
 dockergetstartedfminzoni_helloworld_1 exited with code 0
 ```
 
-## Tutto chiaro? Approfondiamo il processo di creazione di un'immagine
+## Tutto chiaro? Approfondiamo il processo di creazione di un'immagine Docker
