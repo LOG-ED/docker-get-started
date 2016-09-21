@@ -17,7 +17,7 @@ Attraverso esercitazioni pratiche e un pizzico di teoria (q.b) saranno introdott
 Le sessioni sono attive **dal 3 ottobre**, 3 giorni la settimana:  
 
 - **il lunedì e il giovedì dalle 18:30 alle 20:30.**  
-- **il venerdì dalle 14.30 alle 18.30**
+- **il venerdì dalle 9.30 alle 13.30**
 
 Per la natura del corso, puoi decidere il giorno o i giorni in cui frequentare, senza vincoli.
 Ogni sessione, della durata di 2 ore, prevede questi momenti formativi:
