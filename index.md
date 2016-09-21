@@ -26,7 +26,14 @@ Ogni sessione, della durata di 2 ore, prevede questi momenti formativi:
 - una dimostrazione pratica degli strumenti e dei comandi descritti  
 - l'assegnazione di esercitazioni pratiche individuali o a piccoli gruppi  
 - Un momento di revisione delle esercitazioni assegnate
- 
+
+### Tools:
+
+- Le esercitazioni pratiche sono svolte utilizzando la piattaforma [GitHub Classroom](https://classroom.github.com){:target="_blank"} che consente di creare un ambiente di lavoro dedicato per ogni studente e semplifica la verifica. **Richiedi l'accesso al Docente!**    
+- E' presente una chat dedicata per il corso [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LOG-ED/docker-get-started?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  
+- L'editor consigliato è [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}.    
+- Verrà utilizzato [Yeoman](http://yeoman.io/){:target="_blank"} come strumento di code generation.  
+
 ### Requisiti:
  
 E' utile, ma non necessaria, una conoscenza base di programmazione.  
@@ -61,6 +68,8 @@ Questa lezione sarà l'occasione per capire **cosa rende davvero interessante Do
 -  Amministrare i container  
 -  Distribuire le proprie immagini
 
+Materiali:  
 
+- [Tutorial su Yeoman generator for Docker](https://log-ed.github.io/docker-get-started/sessione2).
 
 
