@@ -45,7 +45,7 @@ Sono un programmatore e smanettone della prima ora. Appassionato da sempre di Gi
 
 ### Prima sessione
  
-In questa prima sessione, dopo una breve **introduzione a Docker**, predisporremo l'ambiente di sviluppo e installeremo il Docker Engine. Presenterò i principali comandi di Docker e li useremo attivamente con un'applicazione di esempio. Struttureremo un processo per il **test dell'applicazione** e ripercorreremo tutti i concetti e gli strumenti visti finora, step-by-step, per avviare l'applicazione con **Docker Compose** e valutare il suo funzionamento.
+In questa prima sessione, dopo una breve **introduzione a Docker**, predisporremo l'ambiente di sviluppo e installeremo il Docker Engine. Presenterò i principali comandi di Docker e li useremo attivamente, step-by-step, per avviare un'applicazione di esempio con **Docker Compose** e valutarne il funzionamento.
 
 Materiali:  
 
