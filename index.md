@@ -50,6 +50,7 @@ In questa prima sessione, dopo una breve **introduzione a Docker**, predisporrem
 Materiali:  
 
 - [Tutorial che guida al primo utilizzo di Docker](https://log-ed.github.io/docker-get-started/sessione1).
+- [Tutorial introduttivo a Docker Compose](https://log-ed.github.io/docker-get-started/sessione1_1).
 
 ### Seconda sessione
 
