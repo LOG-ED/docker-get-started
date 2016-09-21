@@ -32,10 +32,18 @@ services:
     working_dir: /go/bin/helloworld
     command: bash -c "go run main.go"
 ```
+In queste istruzioni, possiamo riconoscere alcuni comandi e parametri:
+
+| **Istruzione** | **Descrizione** |
+| ---------- | ----------- |
+| image: golang | Indica l'immagine di base da utilizzare |
+| volumes: - .:/go/bin/helloworld | Definisce il "mapping" tra la directory corrente dell'host e la directory /go/bin/helloworld del container |
+| working_dir: /go/bin/helloworld | Definisce la directory del container dove verrà eseguito il command |
+| command: bash -c "go run main.go" | Indica il comando da eseguire nella bash una volta creato il container |
 
 ### Avviamo l'applicazione
 
-Docker compose è utilizzando principalmente per avviare i servizi definiti in un file di configurazione, come il **"docker-compose.test.yml"** che abbiamo creato.  
+Docker compose è utilizzato principalmente per avviare i servizi definiti in un file di configurazione, come il **"docker-compose.test.yml"** che abbiamo creato.  
 Apriamo un terminale e spostiamoci nella directory dove è presente il file di configurazione. Utilizziamo il seguente comando per avviare il servizio helloworld, ovvero per creare un nuovo container in cui verrà eseguita la nostra applicazione di esempio:
 
 ```$ docker-compose -f docker-compose.test.yml up```
