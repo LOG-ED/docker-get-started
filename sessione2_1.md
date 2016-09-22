@@ -68,8 +68,8 @@ Successfully built 8bdb5e4e322a
 ### Cosa è successo?
 
 La creazione di un'immagine è un processo incrementale e iterativo, che per ciascuna istruzione presente nel Dockerfile comporta:  
-- la creazione di un container basato sull'immagine di base. La prima immagine è quella specificata dal FROM.  
-- l'elaborazione dell'istruzione (ad esempio la copia di file, l'esecuzione di un comando, ecc.)  
+- la creazione di un container basato sull'immagine di base. La prima immagine è quella specificata dal FROM  
+- l'elaborazione dell'istruzione (ad esempio la copia di file, l'esecuzione di un comando)  
 - il salvataggio del container come nuova immagine che sarà utilizzata dall'istruzione successiva  
 - la cancellazione del container
  
