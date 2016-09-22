@@ -67,5 +67,20 @@ Successfully built 8bdb5e4e322a
 
 ### Cosa è successo?
 
+La creazione di un'immagine è un processo incrementale e iterativo, che per ciascuna istruzione presente nel Dockerfile comporta:  
+- la creazione di un container basato sull'immagine di base. La prima immagine è quella specificata dal FROM.  
+- l'elaborazione dell'istruzione (ad esempio la copia di file, l'esecuzione di un comando, ecc.)  
+- il salvataggio del container come nuova immagine che sarà utilizzata dall'istruzione successiva  
+- la cancellazione del container
+ 
+Per il Dockerfile di esempio, possiamo notare 4 di queste iterazioni (step), una per istruzione.
+L'ultima immagine generata (dallo Step 4) è quella finale che incorpora tutte le nostre personalizzazioni e può essere utilizzata tutte le volte che vorremo. Possiamo verificarne la disponibilità eseguendo da terminale questo comando, cercando l'immagine con ID 8bdb5e4e322a:
+
+```
+$ docker images
+REPOSITORY           TAG                 IMAGE ID            CREATED             SIZE
+helloworld           latest              8bdb5e4e322a        1 hours ago        671.3 MB
 ...
+```
+
 
