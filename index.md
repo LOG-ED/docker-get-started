@@ -14,7 +14,7 @@ Attraverso esercitazioni pratiche e un pizzico di teoria (q.b) saranno introdott
 ### Durata: 2 sessioni
  
 ### Svolgimento delle sessioni:  
-Le sessioni sono attive **dal 3 ottobre**, 3 giorni la settimana:  
+Le sessioni sono attive **dal 7 novembre**, 3 giorni la settimana:  
 
 - **il lunedì e il giovedì dalle 18:30 alle 20:30.**  
 - **il venerdì dalle 9.30 alle 13.30**
